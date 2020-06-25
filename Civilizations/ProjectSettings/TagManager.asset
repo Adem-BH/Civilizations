@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Traps
+  - Boss
+  - Poison
+  - Blood
+  - Mummies
+  - Songs
+  - MinDistance
+  - Island
+  - Ships
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemies
+  - Ships
+  - Player
+  - Islands
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tiles
+    uniqueID: 224679161
+    locked: 0
+  - name: Traps
+    uniqueID: 2525310223
+    locked: 0
+  - name: Player
+    uniqueID: 3825759963
+    locked: 0
+  - name: MinCanvas
+    uniqueID: 3972022321
+    locked: 0
+  - name: Canvas
+    uniqueID: 1579354269
+    locked: 0
